@@ -1,2 +1,3 @@
 # iambeggining
-Starting with gihub
+Starting with GitHub
+Human plus AI fusion HUAI
