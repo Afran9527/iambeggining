@@ -1,4 +1,4 @@
 # iambeggining
 Starting with GitHub
 <br>
-Human plus AI fusion HUAI
+Human plus AI  HUAI
